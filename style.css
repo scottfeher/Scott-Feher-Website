@@ -21,11 +21,12 @@ h2 {
     background-color: #ffddcc;
 }
 
-button {
-    
-}
-
 .container-navigation a{
     text-decoration: none;
+    display: inline;
+}
+
+.type-button {
     
+    align-items: center;
 }
