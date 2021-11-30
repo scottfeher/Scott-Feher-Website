@@ -31,9 +31,9 @@ h2 {
 }
 
 .type-button {
-    
     position: relative;
-    
+    size: 200px x 200px;
+
 }
 
 .coding-button {
@@ -48,5 +48,5 @@ h2 {
 
 .ux-button {
     position: relative;
-    
+    object-fit: 200px x 200px;
 }  
