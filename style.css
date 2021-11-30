@@ -28,5 +28,29 @@ h2 {
 
 .type-button {
     
-    align-items: center;
+    position: sticky;
+    left: 200px;
+    top: 146px;
+    
 }
+
+.coding-button {
+    position: sticky;
+    left: 500px;
+    top: 146px;
+    
+}
+
+.carp-button {
+    position: sticky;
+    left: 750px;
+    top: 146px;
+    
+}
+
+.ux-button {
+    position: sticky;
+    left: 900px;
+    top: 146px;
+    
+}  
