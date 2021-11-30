@@ -21,36 +21,32 @@ h2 {
     background-color: #ffddcc;
 }
 
-.container-navigation a{
+.container-navigation {
     text-decoration: none;
-    display: inline;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+
 }
 
 .type-button {
     
-    position: sticky;
-    left: 200px;
-    top: 146px;
+    position: relative;
     
 }
 
 .coding-button {
-    position: sticky;
-    left: 500px;
-    top: 146px;
+    position: relative;
     
 }
 
 .carp-button {
-    position: sticky;
-    left: 750px;
-    top: 146px;
+    position: relative;
     
 }
 
 .ux-button {
-    position: sticky;
-    left: 900px;
-    top: 146px;
+    position: relative;
     
 }  
