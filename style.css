@@ -62,8 +62,11 @@ h3 {
 }
 
 .type-section1 {
-    display: i;
+    display: flex ;
     flex-wrap: wrap;
     flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    
 
 }
