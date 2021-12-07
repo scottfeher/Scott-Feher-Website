@@ -1,9 +1,9 @@
 body {
-    background-color: #ffddcc;
+    background-color: #C2C7CF;
 }
 
 header {
-    background-color: beige;
+    background-color: #ECCBA3;
     padding: 1px 0px 1px 0px;
 }
 
@@ -56,3 +56,14 @@ h3 {
     position: relative;
     
 }  
+
+.type-body {
+    background-color: whitesmoke;
+}
+
+.type-section1 {
+    display: i;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+}
