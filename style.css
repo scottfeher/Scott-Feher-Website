@@ -68,5 +68,12 @@ h3 {
     align-items: center;
     justify-content: space-around;
     
+}
 
+.type-section2 {
+    display: flex ;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
 }
