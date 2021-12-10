@@ -46,6 +46,13 @@ h6 {
     justify-content: flex-start;
 }
 
+h7 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    background-color: #ffddcc;
+}
+
 
 .container-navigation {
     text-decoration: none;
