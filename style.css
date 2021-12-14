@@ -153,6 +153,24 @@ h7 {
     font-size: 25px;
 }
 
-h9 {
-    
+.ux-section1-2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    background-color: #ffddcc;
+
+}
+
+.ux-section2-1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    background-color: #ffddcc;
+}
+
+.ux-section3-1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    background-color: #ffddcc;
 }
