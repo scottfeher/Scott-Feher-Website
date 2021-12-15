@@ -86,6 +86,8 @@ h7 {
 
 .type-body {
     background-color: whitesmoke;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .type-section1 {
@@ -95,6 +97,14 @@ h7 {
     align-items: center;
     justify-content: space-around;
     
+}
+
+.section1-item1-1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    background-color: #ffddcc;
+    font-size: 25px;
 }
 
 .type-section2 {
