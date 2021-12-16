@@ -213,3 +213,16 @@ h7 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 17px;
 }
+
+.reflection-paragraph {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+
+.image-me {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    justify-content: center;
+    align-items: baseline;
+}
